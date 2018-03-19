@@ -20,17 +20,23 @@ Complete la tabla:
 ## Discusión
 
 1. Complete la la tabla
-
-| Ilusión | Categoria | Referencia | Tipo de interactividad (si aplica) | URL código base (si aplica) |
-|---------|-----------|------------|------------------------------------|-----------------------------|
-|         |           |            |                                    |                             |
-|         |           |            |                                    |                             |
-|         |           |            |                                    |                             |
-|         |           |            |                                    |                             |
-|         |           |            |                                    |                             |
-|         |           |            |                                    |                             |
+a
+| Ilusión 			  			   | Categoria | Referencia | Tipo de interactividad (si aplica) | URL código base (si aplica) |
+|----------------------------------|-----------|------------|------------------------------------|-----------------------------|
+|Scintillating Grid   			   |Physiological |			|Presionar a						 |                             |
+|Ilusion de Hering    			   |Geometrical   |			|Presionar a sostenido               |							   |
+|Stepping feet        			   |Motion      |			|Presionar a sostenido     		     |       					   |
+|Stereokinetic Effect 			   |Motion      |            |                                    |                             |
+|Triangulo de Penrose 			   |Paradox/Cognitive|            |                                    |                             |
+|Bandas de Mach       			   |Psychological |            |                                    |                             |
+|Cafe Wall         	  			   |Disorting     |            |                                    |                             |
+|Motion Induced Blindness (MIB)|Physiological |            |		                       	     |                             |
+|Liliac Chaser        			   |Motion           |            |                                    |                             |
+|Rotating Square      			   |Motion        |			|Presionar a            			 |                             |                                
 
 2. Describa brevememente las referencias estudiadas y los posibles temas en los que le gustaría profundizar:
+
+Luego de revisar los diferentes tipos de ilusiones ópticas, nos gustaría trabajar más en las de tipo fisiológico, por tratarse de casos en los que los sistemas biológicos que nos componen son los que nos brindan información errónea debido a las decisiones que toma el cerebro para economizar recursos y acercarse a la realidad lo más que puede. 
 
 ## Entrega
 
