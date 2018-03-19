@@ -20,7 +20,7 @@ Complete la tabla:
 ## Discusión
 
 1. Complete la la tabla
-a
+
 | Ilusión                          | Categoria          | Referencia | Tipo de interactividad (si aplica) | URL código base (si aplica) |
 |----------------------------------|--------------------|------------|------------------------------------|-----------------------------|
 |Scintillating Grid                |Physiological       |            |Presionar a                         |                             |
