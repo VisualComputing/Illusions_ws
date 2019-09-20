@@ -8,6 +8,8 @@ Comprender algunos aspectos fundamentales de la [inferencia inconsciente](https:
 
 Implementar al menos 6 ilusiones de tres tipos distintos (paradójicas, geométricas, ambiguas, etc.), al menos dos con movimiento y dos con interactividad.
 
+*Recomendación:* implementar el código desde ceros.
+
 ## Integrantes
 
 Complete la tabla:
@@ -33,5 +35,4 @@ Complete la tabla:
 
 ## Entrega
 
-* Hacer [fork](https://help.github.com/articles/fork-a-repo/) de la plantilla. Plazo: 12/5/19 a las 24h.
-* (todos los integrantes) Presentar el trabajo presencialmente en la siguiente sesión de taller.
+* * Plazo para hacer _push_ del repositorio a github: 6/10/19 a las 24h.
