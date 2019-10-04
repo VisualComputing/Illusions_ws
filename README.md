@@ -35,4 +35,4 @@ Complete la tabla:
 
 ## Entrega
 
-* Plazo para hacer _push_ del repositorio a github: ~~6/10/19~~ 13/10/19 a las 24h.
+* Plazo para hacer _push_ del repositorio a github: ~~6/10/19~~ 14/10/19 a las 24h.
