@@ -8,15 +8,9 @@ Comprender algunos aspectos fundamentales de la [inferencia inconsciente](https:
 
 Implementar al menos 6 ilusiones de tres tipos distintos (paradójicas, geométricas, ambiguas, etc.), al menos dos con movimiento y dos con interactividad.
 
-*Recomendación:* implementar el código desde ceros.
-
-## Integrantes
-
-Complete la tabla:
-
-| Integrante | github nick |
-|------------|-------------|
-|            |             |
+*Opcionales:*
+1. Realizar una ilusión mediante el [fragment shader](https://thebookofshaders.com/).
+2. Realizar una ilusión en 3D, como el [triángulo de Penrose](https://en.wikipedia.org/wiki/Penrose_triangle).
 
 ## Discusión
 
@@ -35,4 +29,4 @@ Complete la tabla:
 
 ## Entrega
 
-* Plazo para hacer _push_ del repositorio a github: ~~6/10/19~~ 14/10/19 a las 24h.
+* Plazo para hacer _push_ del repositorio a github: 25/10/20 a las 24h.
