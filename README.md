@@ -6,11 +6,10 @@ Comprender algunos aspectos fundamentales de la [inferencia inconsciente](https:
 
 ## Tareas
 
-Implementar al menos 6 ilusiones de tres tipos distintos (paradójicas, geométricas, ambiguas, etc.), al menos dos con movimiento y dos con interactividad.
+Implementar al menos 6 ilusiones de tres tipos distintos (paradójicas, geométricas, ambiguas, etc.), al menos dos con movimiento, dos con interactividad y una en 3D.
 
 *Opcionales:*
 1. Realizar una ilusión mediante el [fragment shader](https://thebookofshaders.com/).
-2. Realizar una ilusión en 3D, como el [triángulo de Penrose](https://en.wikipedia.org/wiki/Penrose_triangle).
 
 ## Discusión
 
