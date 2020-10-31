@@ -29,3 +29,7 @@ Implementar al menos 6 ilusiones de tres tipos distintos (paradójicas, geométr
 ## Entrega
 
 * Plazo para hacer _push_ del repositorio a github: ~~25/10/20~~ 1/11/20 a las 24h.
+
+## Protocolo presentaciones
+
+Exposiciones a ser realizadas durante la(s) clase(s) de la semana entrante (necesarias para obtener una calificación) de 10m: 8m presentación: demo + discusión del reporte subido a su página + 2m preguntas.
